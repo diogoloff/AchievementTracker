@@ -8,5 +8,7 @@ Por exemplo no momento o usuário cadastra manualmente a conquistas que deseja p
 Melhorias que poderiam existir
 
 1 - Integrar com a plataforma do Xbox, a fim de permitir importar determinado jogo com todas as conquistas facilitando o cadastros. Existe uma API disponibilizada pela Microsoft que é possivel resgatar estas informações.
+
 2 - Criar um menu favoritos.
+
 3 - Arquivar as conquistas já realizadas.
